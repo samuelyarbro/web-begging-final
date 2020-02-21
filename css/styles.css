@@ -1,0 +1,252 @@
+body{
+    background-image: url(/img/portal-2.png);
+    background-repeat: no-repeat;
+    height:100%;
+    width:100%;
+    background-size: cover;
+}
+nav{
+   
+    height:200px;
+    width:90%;
+    margin:auto;
+    background-color: rgb(128,128,128)
+}
+.portal{
+    height:100%;
+    width:100%;
+}
+
+.rick-logo{
+  position:absolute;
+    width:40%;
+   top:100px;
+   left:40%;
+   height:100px;
+   width:300px;
+}
+
+.placeholder{
+
+    position:absolute;
+    width:40%;
+    top:47px;
+    left:47%;
+    height:90px;
+    width:60px;
+}
+.right-nav{
+    height: 20px;
+    width:100px;
+    float:right;
+    margin-right: 10px;
+    display:block;
+    margin-top: 10px;
+    margin-right: 90px;
+    list-style-type: none;
+}
+
+.left-nav{
+    height:20px;
+    width:100px;
+    float:left;
+    display:block;
+    margin-top: 10px;
+    list-style-type: none;
+    
+}
+
+nav li{
+    padding:20px;
+    color:black;
+}
+nav a{
+    text-decoration:none
+    
+}
+
+   .index-header{
+       position:absolute;
+       display:block;
+       height:100px;
+       width:400px;
+       top:250px;
+       right:480px;
+   } 
+
+.right-div{
+    float:left;
+    border:2px solid orange;
+    height:500px;
+    width:330px;
+    break-before: auto;
+    margin:40px;
+    background-color:white;
+    
+}
+.left-div{
+  /*  position:absolute;*/
+    border: 2px solid blue;
+    height:500px;
+    width:330px;
+    margin-right:auto;
+    background-color:white;
+    float:right;
+    margin:40px;
+    
+}
+.rick-and-morty{
+    width:100%;
+    height:100%;
+}
+.morty{
+    background-color: limegreen;
+    height:100%;
+    width:100%;
+    
+}
+/**************** end of index ***********************/
+
+/*************begining of contact********************/
+
+
+
+.video-container{
+   position: absolute;
+    display: block;
+    height:315px;
+    width:560px;
+    top:300px;
+    left:400px;
+    margin-bottom: 50px;
+
+}
+.contact-header{    
+position:absolute;
+display:block;
+height:50px;
+width:630px;
+right:200px;
+
+}
+.season-1-rick{
+    position:absolute;
+    display:block;
+    width:200px;
+    height:300px;
+    top:900px;
+    right:1100px;
+}
+.header-1{
+    position: absolute;
+    display:block;
+    height:50px;
+    width:50px;
+    top:1200px;
+    right:1150px;
+}
+.season-1-morty{
+    position:absolute;
+    display:block;
+    height:300px;
+    width:100px;
+    top:900px;
+    right:750px;
+}
+.header-2{
+    position: absolute;
+    display:block;
+    height:50px;
+    width:50px;
+    top:1200px;
+    right:800px;
+
+}
+.season-1-summer{
+    position:absolute;
+    display:block;
+    height:300px;
+    width:150px;
+    top:890px;
+    right:400px;
+}
+.header-3{
+    position: absolute;
+    display:block;
+    height:50px;
+    width:50px;
+    top:1200px;
+    right:500px;
+}
+.season-1-jerry{
+    position:absolute;
+    display:block;
+    height:300px;
+    width:200px;
+    top:900px;
+    right:100px;
+}
+.header-5{
+    position: absolute;
+    display:block;
+    height:50px;
+    width:50px;
+    top:1200px;
+    right:170px;
+}
+
+.season-1-beth{
+    position:absolute;
+    display:block;
+    height:300px;
+    width:200px;
+    top:1300px;
+    right:550px;
+
+}
+.header-4{
+    position: absolute;
+    display:block;
+    height:50px;
+    width:50px;
+    top:1600px;
+    right:600px;
+}
+/*******************End Of Contact *********************/
+
+/*********************begining of info ***************************/
+.top-1{
+    position:absolute;
+    display:block;
+    height:50px;
+    width:300px;
+    right:500px;
+}
+
+.video-container-2{
+position:absolute;
+display:block;
+height:315px;
+width:560;
+top:300px;
+right:400px;
+}
+/* end of info */
+
+/* beggining of home */
+.season-3{
+    position:absolute;
+    display:block;
+    height:315px;
+    width:560px;
+    top:350px;
+    right:390px;
+}
+.top-2{
+    position:absolute;
+    display:block;
+    height:50px;
+    width:300px;
+    right:500px;
+    top:250px;
+}
